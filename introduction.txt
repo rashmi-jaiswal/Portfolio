@@ -1,0 +1,19 @@
+INTRODUCTION
+Python was created by Guido Van Rossum in 1989 and is very easy to learn.
+Python is an inpterpreted, oject oriented, high level programming language with dynamic sementic.
+Python follows both object oriented as well as procedural oriented programming style.
+
+USES OF PYTHON
+Youtube : The popular youtube vedio sharing service is largely written in python.
+Google: it makes extensice use of python in its web search systems.
+Dropbox : Its storage services codes both its server and desktop client software primarily in python.
+Raspberry pi : Its singleboard computer promotes python as its educational language,
+BitTorrent : Its peer to peer file sharing system began its life as a python program.
+
+FEATURES OF PYTHON
+Simple and easy to learn.
+Free and open source.
+High-level language
+Portable
+Supports different programming paradigm
+Extensible.
