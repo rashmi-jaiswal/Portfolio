@@ -1,0 +1,109 @@
+'''
+Python Variable
+numbers and boolean
+string
+
+variable:
+who's value changes.
+These are used to store values such as inputs given by user or result of any operation.
+
+  x=13
+  
+  
+       13
+	   
+	unique Id :
+    id() function: It gives unique internal id for the variable.
+       
+'''
+
+
+x=13
+print("valueis:",x)
+id_x=id(x)
+print("Id of variable x is:",id_x)
+
+y=13
+print("Value of y:",y)
+id_y=id(y)
+print("Id of variable:",id_y)
+
+
+'''
+allocation of id's of variable depends upon the values which we provide to interpreter 
+
+'''
+
+
+'''
+Datatypes of Variables:
+
+1)Numbers
+2)String
+3)boolean
+
+x=10  x=10.5
+
+10&10.5 are called as numbers.
+Numbers are:
+1) interger (int): whole number(no fraction)
+2) floating (float): Fractional number(decimal)
+
+      10==> interger/int
+      10.5==> floating/float
+      
+boolean:
+
+True and False
+
+In order to check datatype of the value stored in the variable.
+
+function: type(variable)
+
+type function gives you or returns you the datatype of the variable or value gven to it.
+
+
+
+
+
+'''
+
+
+
+x=10
+dt=type(x)
+print("Datatype of variablex is:",dt)
+
+y=-20.5
+print("Datatype of variable y is:",type(y))
+
+z=True
+print("Datatype of variable z :",type(z))
+
+
+
+'''
+strings:
+1) single quote
+2) double quote
+3) multi line string(triple quote)
+
+
+'''
+
+x='IVEDANT - THANE'
+print('single quote string is :',x)
+print('Datatype of x is :',type(x))
+
+y="100"
+print("Double quote:",y)
+print("Datatype of y:",type(y))
+
+z='''
+   This is multiline
+   string.
+   ITVEDANT-THANE
+   '''
+   
+print(z)
+print("Datatype of z:",type(z))
